@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kahewa
+- 🌱 I’m currently learning Computer science.
+- 📫 How to reach me; gracepshuuya@gmail.com

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kahewa
-- 🌱 always ready for physical and practical development :)
+- 🌱 always ready for physical, mental, emotional and practical development :)
 - skillset:
 Good:
 HTML, CSS, Java script

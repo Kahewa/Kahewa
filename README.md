@@ -1,3 +1,10 @@
 - 👋 Hi, I’m @Kahewa
-- 🌱 I’m currently learning Computer science.
+- 🌱 always ready for physical and practical development :)
+- skillset:
+Good:
+HTML, CSS, Java script
+Fair:
+Java, Python
+Learning:
+Ballerina, Kotlin
 - 📫 How to reach me; gracepshuuya@gmail.com

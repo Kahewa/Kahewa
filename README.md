@@ -7,4 +7,5 @@ Fair:
 Java, Python
 Learning:
 Ballerina, Kotlin
+- I play video games
 - 📫 How to reach me; gracepshuuya@gmail.com

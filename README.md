@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @Kahewa
 - 🌱 always ready for physical, mental, emotional and practical development :)
 - 🖥️I am a Software Developer (Bachelors Degree in Computer Science at Namibia Univerity of Science and Technology)
-- 📱I am a freelance digital creator. Check out my website: https://bygreysco.netlify.app
+- 📱I am a freelance digital creator. Check out my website: www.bygreys.com
 - 🖊️Work experience on my linked in profile: https://www.linkedin.com/in/graceshuuya/
 - 📷I am a YouTuber: https://www.youtube.com/@kahewagrace
 - 📫 How to reach me; bygreys.na@gmail.com
